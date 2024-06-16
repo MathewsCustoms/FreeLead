@@ -79,7 +79,7 @@ def main():
                 print("Invalid choice. Please enter 'yes' or 'no'.")
         
         if choice == "no":
-            print("Exiting Password Generator. Goodbye!")
+            print("\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nExiting The Password List Generator. Goodbye!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
             break
 
 if __name__ == "__main__":
